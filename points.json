@@ -1,12 +1,32 @@
 [
   {
-    "text": "dasd",
-    "x": 1641,
-    "y": 555.125,
-    "fontSize": "14",
+    "text": "TWIERDZA",
+    "x": 2297,
+    "y": 489.125,
+    "fontSize": "30",
     "gallery": [
       "https://i.postimg.cc/6wcybJ5x/Escape-From-Tarkov-V39y-Sy-WR0-E.jpg",
-      "https://i.postimg.cc/XV9vwtDh/Escape-From-Tarkov-1-Nb-DKdycv2.jpg"
+      "https://i.postimg.cc/zBX5N2NS/Escape-From-Tarkov-1-Nb-DKdycv2.jpg",
+      "https://i.postimg.cc/kMS9mS3H/punkt-48-3.jpg",
+      "https://i.postimg.cc/T1nXqzJx/punkt-48-4.jpg"
+    ]
+  },
+  {
+    "text": "CRACKHOUSE",
+    "x": 2297,
+    "y": 489.125,
+    "fontSize": "14",
+    "gallery": [
+      "https://i.postimg.cc/7Yy4YLqZ/punkt-1-1.jpg"
+    ]
+  },
+  {
+    "text": "RUAF",
+    "x": 2297,
+    "y": 489.125,
+    "fontSize": "30",
+    "gallery": [
+      "https://i.postimg.cc/Pf1Gck1s/punkt-10-1.jpg"
     ]
   }
 ]
