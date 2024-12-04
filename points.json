@@ -1,41 +1,20 @@
 [
   {
-    "text": "TWIERDZA",
-    "x": 1586.671875,
-    "y": 540.125,
-    "fontSize": "30",
-    "gallery": [
-      "https://i.postimg.cc/6wcybJ5x/Escape-From-Tarkov-V39y-Sy-WR0-E.jpg",
-      "https://i.postimg.cc/zBX5N2NS/Escape-From-Tarkov-1-Nb-DKdycv2.jpg",
-      "https://i.postimg.cc/kMS9mS3H/punkt-48-3.jpg",
-      "https://i.postimg.cc/T1nXqzJx/punkt-48-4.jpg"
-    ]
-  },
-  {
     "text": "OLD GAS",
-    "x": 1282,
+    "x": 1270,
     "y": 519.125,
     "fontSize": "20",
     "gallery": [
-      "https://i.postimg.cc/7Yy4YLqZ/punkt-1-1.jpg"
+      "https://i.postimg.cc/852SvpWw/punkt-47-1.jpg"
     ]
   },
   {
-    "text": "RUAF",
-    "x": 2207.1640625,
-    "y": 453.125,
-    "fontSize": "30",
-    "gallery": [
-      "https://i.postimg.cc/Pf1Gck1s/punkt-10-1.jpg"
-    ]
-  },
-  {
-    "text": "CRACKHOUSE",
-    "x": 1946.4296875,
-    "y": 484.625,
+    "text": "MAŁY CONSTRUCT",
+    "x": 2086,
+    "y": 864.125,
     "fontSize": "20",
     "gallery": [
-      "https://i.postimg.cc/7Yy4YLqZ/punkt-1-1.jpg"
+      "https://i.postimg.cc/gjCfxNC7/punkt-20-1.jpg"
     ]
   }
 ]
