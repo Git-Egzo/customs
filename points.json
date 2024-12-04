@@ -1,8 +1,8 @@
 [
   {
     "text": "TWIERDZA",
-    "x": 2297,
-    "y": 489.125,
+    "x": 1571.71875,
+    "y": 540.125,
     "fontSize": "30",
     "gallery": [
       "https://i.postimg.cc/6wcybJ5x/Escape-From-Tarkov-V39y-Sy-WR0-E.jpg",
@@ -13,8 +13,8 @@
   },
   {
     "text": "CRACKHOUSE",
-    "x": 2297,
-    "y": 489.125,
+    "x": 1952.6484375,
+    "y": 486.625,
     "fontSize": "14",
     "gallery": [
       "https://i.postimg.cc/7Yy4YLqZ/punkt-1-1.jpg"
@@ -22,8 +22,8 @@
   },
   {
     "text": "RUAF",
-    "x": 2297,
-    "y": 489.125,
+    "x": 2217.2109375,
+    "y": 457.125,
     "fontSize": "30",
     "gallery": [
       "https://i.postimg.cc/Pf1Gck1s/punkt-10-1.jpg"
