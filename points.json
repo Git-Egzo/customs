@@ -1,30 +1,18 @@
 [
   {
     "text": "TWIERDZA",
-    "x": 1571.71875,
-    "y": 490.125,
-    "fontSize": "30",
-    "gallery": [
-      "https://i.postimg.cc/6wcybJ5x/Escape-From-Tarkov-V39y-Sy-WR0-E.jpg",
-      "https://i.postimg.cc/zBX5N2NS/Escape-From-Tarkov-1-Nb-DKdycv2.jpg",
-      "https://i.postimg.cc/kMS9mS3H/punkt-48-3.jpg",
-      "https://i.postimg.cc/T1nXqzJx/punkt-48-4.jpg"
-    ]
-  },
-  {
-    "text": "CRACKHOUSE",
-    "x": 1952.6484375,
-    "y": 436.625,
+    "x": 1645.4921875,
+    "y": 556.625,
     "fontSize": "14",
     "gallery": [
-      "https://i.postimg.cc/7Yy4YLqZ/punkt-1-1.jpg"
+      "https://i.postimg.cc/kMS9mS3H/punkt-48-3.jpg"
     ]
   },
   {
     "text": "RUAF",
-    "x": 2217.2109375,
-    "y": 407.125,
-    "fontSize": "30",
+    "x": 2243.984375,
+    "y": 479.625,
+    "fontSize": "14",
     "gallery": [
       "https://i.postimg.cc/Pf1Gck1s/punkt-10-1.jpg"
     ]
