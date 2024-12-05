@@ -1,32 +1,24 @@
 [
   {
-    "text": "MAŁY CONSTRUCT",
-    "x": 61.16476441322798,
-    "y": 44.59402334731571,
-    "fontSize": "14",
-    "gallery": [
-      "https://i.postimg.cc/gjCfxNC7/punkt-20-1.jpg"
+    "id": 1733397334832,
+    "x": 0.5920398009950248,
+    "y": 0.2633239033590219,
+    "name": "CRACKHOUSE",
+    "color": "#ff0000",
+    "fontSize": 20,
+    "images": [
+      "https://i.postimg.cc/852SvpWw/punkt-47-1.jpg"
     ]
   },
   {
-    "text": "TWIERDZA",
-    "x": 49.48785484342991,
-    "y": 15.198517217832407,
-    "fontSize": "14",
-    "gallery": [
-      "https://i.postimg.cc/fT3zkP98/Escape-From-Tarkov-V39y-Sy-WR0-E.jpg",
-      "https://i.postimg.cc/zBX5N2NS/Escape-From-Tarkov-1-Nb-DKdycv2.jpg",
-      "https://i.postimg.cc/kMS9mS3H/punkt-48-3.jpg",
-      "https://i.postimg.cc/T1nXqzJx/punkt-48-4.jpg"
-    ]
-  },
-  {
-    "text": "OLD GAS",
-    "x": 37.2841673983026,
-    "y": 13.637693883523557,
-    "fontSize": "14",
-    "gallery": [
-      "https://i.postimg.cc/9MR2zR4r/punkt-45-1.jpg"
+    "id": 1733397390050,
+    "x": 0.42786069651741293,
+    "y": 0.44125776347023055,
+    "name": "Nowy punkt",
+    "color": "#ff0000",
+    "fontSize": 14,
+    "images": [
+      "https://i.postimg.cc/852SvpWw/punkt-47-1.jpg"
     ]
   }
 ]
